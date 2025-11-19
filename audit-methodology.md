@@ -23,7 +23,29 @@ Write down in your notes:
 
 ---
 
-### **2. Money Flow Mapping**
+### **2. Read the Code (Raw Reality Check)**
+
+After docs, now you open the actual codebase.
+
+Here, your mindset is:
+
+“Does the code actually match what the docs said?”
+“What are the hidden things the docs didn’t mention?”
+
+This stage you:
+
+🔍 Scan the entire repo FIRST
+
+* Look at folder structure
+* Identify main modules (vault, pool, oracle, jackpot, bridge…)
+* Identify key contracts
+* See helper libraries
+* Identify access roles
+* Identify where funds move
+
+You NOW understand the “shape” of the system.
+
+### **3. Money Flow Mapping**
 
 Draw this in text:
 
